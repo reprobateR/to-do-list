@@ -2,6 +2,6 @@
 
 UI and Back End Service For a Simple To Do List App
 
-HTML CSS JQUERY Bootstrapp - UI
+HTML/CSS JQuery Bootstrap - UI
 
 Back End - Spring Boot, Hibernate, MySql Db
