@@ -25,8 +25,8 @@
                     <li><a id="high">High</a></li>
                 </ul>
             </div>
-            <button type="button" class="btn btn-default" id="add-button"> <b>+ Add </b> </button>
-            <button type="button" class="btn btn-default" id="save-button"> <b>Save Tasks</b> </button>
+            <button type="button" class="btn btn-default" style="background: antiquewhite;" id="add-button"> <b>+ Add </b> </button>
+            <button type="button" class="btn btn-default save-button" id="save-button"> <b>Save Tasks</b> </button>
         </div>
         <ul class="list-group" id="task-list">
                 <!-- <li class="list-group-item list-group-item-success">First item</li>

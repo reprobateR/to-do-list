@@ -1,3 +1,12 @@
 .task-container {
     display: -webkit-inline-box;
 }
+
+.container{
+    width: 748px;
+}
+
+.save-button {
+	float: right;
+	background: antiquewhite;
+}
